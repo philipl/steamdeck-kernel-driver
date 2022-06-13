@@ -1,7 +1,7 @@
 # steamdeck-kernel-driver
 
 This is a standalone/dkms build of the steamdeck.ko kernel driver that
-@ndreys wrote and [sent](https://lkml.org/lkml/2022/2/5/391) to the
+[@ndreys](https://github.com/ndreys) wrote and [sent](https://lkml.org/lkml/2022/2/5/391) to the
 Linux Kernel Mailing List in Feburary 2022.
 
 This driver is present in the SteamOS builds on the Steam Deck but is not
